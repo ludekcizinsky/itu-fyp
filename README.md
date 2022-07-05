@@ -10,3 +10,12 @@ four group projects:
 - [analysis of tweets](coursework/fyp2021p04g13): `nlp data`
 
 If you have any questions, please get in touch with me at luci@itu.dk.
+
+## How to collaborate
+To collaborate on all four projects, we used [Deepnote](https://deepnote.com).
+As a result Deepnote team reach out to me and made a short [article](https://deepnote.com/education/group-projects) about the
+experience with their platform. With that being said, if you plan to do your
+project based on scripts (rather than on notebook(s)), I would just use Github.
+Here is an [example](https://github.com/jonas-mika/glass-forensic-analysis)
+project. As a rule of thumb, if you are comfortable with programming, then
+perhaps scripts is the way to go, otherwise, I would start with notebook.
