@@ -3,6 +3,8 @@ In this project, we use data from TweetEval repository to train NLP models with 
 - Hate detection: Is given tweet hateful or not? (Binary Classification)
 - Sentiment analysis: Is the tweet negative, neutral or positive? (Multiclass classification)
 
+See the results in [report](report).
+
 ## Reproduce results
 Before running the [main notebook](main.ipynb), please make sure you have all
 neccessary libraries installed:

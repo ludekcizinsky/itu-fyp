@@ -7,6 +7,6 @@ four group projects:
 - [analysis of car accidents in Manchester (UK)](coursework/fyp2021p01g13): `qualitative data`
 - [analysis of Netherlands' COVID-19 and weather data](coursework/fyp2021p02g13): `quantitative data`
 - [analysis of skin lesions](coursework/fyp2021p03g13): `image data`
-- [analysis of skin lesions](coursework/fyp2021p04g13): `nlp data`
+- [analysis of tweets](coursework/fyp2021p04g13): `nlp data`
 
 If you have any questions, please get in touch with me at luci@itu.dk.
