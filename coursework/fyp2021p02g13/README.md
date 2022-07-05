@@ -1,5 +1,5 @@
 ## About
-This project is focused on informing policy makers and epidemiologists in NL about possible associations between the spread of COVID-19 and the weather, urbanization and demographic variables which in turn should contribute to reducing the spread of COVID-19. See the results in [report](report).
+This project is focused on informing policy makers and epidemiologists in NL about possible associations between the spread of COVID-19 and the weather, urbanization and demographic variables which in turn should contribute to reducing the spread of COVID-19. See the results in [report](report.pdf).
 
 
 ## Reproduce results
