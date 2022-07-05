@@ -1,0 +1,203 @@
+commit 9be5ec5cb64c8a7585a65a4279ade5ae758a8f30
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Thu Mar 18 20:24:46 2021 +0000
+
+    Final
+
+commit 7d09927348645f324d588b345468402724c9e24b
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Thu Mar 18 18:11:11 2021 +0000
+
+    Final version
+
+commit 27e714ac35b9392974bd05802c19182efe757aee
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Thu Mar 18 10:23:09 2021 +0000
+
+    Final modification to our main ntb.
+
+commit 3a400dcf5933b2f209e3480484ccdf1dc02d118a
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Wed Mar 17 19:40:11 2021 +0000
+
+    Latest update of main
+
+commit 031064f1ea2123bdfb563ba7f011b17256884143
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Tue Mar 16 21:43:16 2021 +0000
+
+    Final version of out submission up to task 3.
+
+commit c296c55c8bd3ed2261713c9461138f3439734270
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Tue Mar 16 15:08:33 2021 +0000
+
+    Update of the latest changes
+
+commit 087bc1ecc3fe6b1691599473d158da8434fad270
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Sun Mar 14 23:34:36 2021 +0000
+
+    Finished task 2, added a new graph for number of cases and UV index
+
+commit b138c656d0f064ee187674d18bb92f4b72efb789
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Sun Mar 14 15:02:07 2021 +0000
+
+    Fixed the data cleaning pipeline, made nicer the association test
+
+commit c7f5064df13cd76dea148f5881d7cbe1519faa47
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Sat Mar 13 20:36:04 2021 +0000
+
+    update
+
+commit 795467d36394fb12581e786fe4cce55cae02bf1b
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Fri Mar 12 22:19:37 2021 +0000
+
+    United y-axes for certain subplots, fixed a general overview of corona impatc graph, fixed couple other bugs
+
+commit e534e2d79bbf823301b0cf0876254fb57514960c
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Fri Mar 12 20:47:44 2021 +0000
+
+    Added three news maps which should correspond to what we were supposed to do in Ex3, by this also task 3 should be done
+
+commit 6ead8937a552dd8c1c369b1236e2a976172856a0
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Fri Mar 12 10:55:01 2021 +0000
+
+    Made sure that we have done all things from ex1 --> needed to add two summaries - aggregation by region (min, mean, med, max), by date (mean)
+
+commit 5e149478c9fa2c71eebbd233ee10edc9b7a2be5e
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Fri Mar 12 09:41:41 2021 +0000
+
+    Finished task 1: Added graphs regards to different time and region aggrgeations for confirmed cases, relative humidity and wind speed
+
+commit 3f15e0dc08074abd46b731eaad5e1718fe7e8b9d
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Thu Mar 11 23:05:32 2021 +0000
+
+    Worked on Task 1: Completed all graphs for number of infected versus different time aggegrations
+
+commit 98034aa9d7f058fc1ae81d2081f91c3d598c538e
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Wed Mar 10 23:40:20 2021 +0000
+
+    Went over data cleaning once again, refactored code all the way up to task 1, task 1 and above might not be working properly due to changes in previous cells
+
+commit aca6d8695f226f32fa29033ccd90a10276f82495
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Wed Mar 10 20:51:51 2021 +0000
+
+    Added the new datasest - weather2, merge it with the weather dataset. Fixed a problem wih filtering netherlands data
+
+commit 02d0bf9b10e2ce1fcdb1a1e4a5a8345f76bb5ef8
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Wed Mar 10 17:59:37 2021 +0000
+
+    Association test - problem solved
+
+commit 2d082febe2c8e2d3e64bdc64d93e3e19c3faa086
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Tue Mar 9 16:04:49 2021 +0000
+
+    Added more weather data. Began correlation tests
+
+commit a01fd9415a364d9c4ea42642cf199917ef059c33
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Sun Mar 7 19:38:54 2021 +0000
+
+    Single variable analysis
+
+commit cb6f0675aa9d79440913f7e9b84e7a216481c761
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Sun Mar 7 14:21:56 2021 +0000
+
+    Data exploration
+
+commit 7214722f26a9ff0c6040c5c717f49a6badc4d5f7
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Fri Mar 5 16:57:51 2021 +0000
+
+    Finished part of task 1, started adjusting weather data
+
+commit 4f2bfea461b89add6d7436d1192934571d65931e
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Mar 5 16:02:32 2021 +0000
+
+    Friday work done
+
+commit b46b6252c2efd80dc581d94e84d89267b9bfe902
+Author: Markus Sibbesen <markusskoleting@gmail.com>
+Date:   Fri Mar 5 14:34:51 2021 +0000
+
+    Task 0 done, begun with task 1+3
+
+commit 903b9a49a50170e16cb22ad597e6f255571fe103
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Fri Mar 5 09:44:07 2021 +0000
+
+    Changes to main notebook, in regards to exercise 1
+
+commit d7f7a14253f1d0dc81f26f1dbe235289af6b1f15
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Wed Mar 3 15:23:53 2021 +0000
+
+    Plot changes
+
+commit 172d0eb958e33cb8563a42aa092279156ff50fee
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Wed Mar 3 13:03:58 2021 +0000
+
+    Plot
+
+commit cdb9410dd1b2ddf202394f8f840ddac35912592a
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Wed Mar 3 11:35:44 2021 +0000
+
+    Shape and missing values
+
+commit 3bf1a0de291fb14ecda86732064473043f80472e
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Wed Mar 3 09:09:05 2021 +0000
+
+    Initial changes to main notebook
+
+commit eba4fedb310134cc7de024395ee5f9624ab865e1
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Tue Mar 2 17:33:42 2021 +0000
+
+    Initial setup
+
+commit 58ec2a25da33d69936fcba42b67e7bfe7b9cc545
+Author: Markus Sibbesen <markusskoleting@gmail.com>
+Date:   Tue Mar 2 15:52:53 2021 +0000
+
+    Testing if i can commit
+
+commit c72bb726a19f5eb7c433e72cc8cde8511dd93782
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Tue Mar 2 15:47:10 2021 +0000
+
+    added data folder
+
+commit 6c2d669b84d3797f3db7d5824fd35713df71e12d
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Tue Mar 2 15:44:35 2021 +0000
+
+    README changes
+
+commit 4412100c6b4a0be262754cc5607d60549c5735c8
+Author: LudekCizinsky <ludekcizinsky11@gmail.com>
+Date:   Tue Mar 2 15:35:30 2021 +0000
+
+    New Readme
+
+commit ca3297ce52135bae5a5868de6f2c7e69ce1b5079
+Author: LudekCizinsky <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Mar 2 16:19:13 2021 +0100
+
+    Initial commit

@@ -1,0 +1,334 @@
+commit 93b8dcc085445bf04e6b6da86b88e64003395cd2
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Thu Feb 25 21:25:45 2021 +0100
+
+    Final changes
+
+commit 99c54f747d2dbea745f4a3485a38d82a76e7e0c8
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Thu Feb 25 14:42:40 2021 +0100
+
+    Final modifications
+
+commit fdcd006e08bf3d4fb874009fafd7553a312aa1b9
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Thu Feb 25 12:51:06 2021 +0100
+
+    clusters html
+
+commit 8cb42e668ffea28bd931f2c6dee0f46c41479a45
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Thu Feb 25 12:46:28 2021 +0100
+
+    Most recent version of main
+
+commit 4a8d4a600f0e3248c096c95e268b310aa89d0a2c
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Wed Feb 24 13:44:12 2021 +0100
+
+    Added external datasets
+
+commit 11b50175643d274ba10b9680971171271e9a8bfd
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 23 08:49:07 2021 +0100
+
+    Cleaned up the directory
+
+commit 1fb5d3721cd8bade83f218adc90ac7a368f4f30e
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 23 08:44:54 2021 +0100
+
+    Added modified reference table, added all_scripts file, completed sections 0 to 3
+
+commit 6317cec2550e616afca8651e8e4eaa2dc8055235
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Sun Feb 21 14:23:02 2021 +0100
+
+    Association test
+
+commit c4e3cc80ea1580f812bb6a8a4641964fe1b060e1
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Sun Feb 21 14:16:55 2021 +0100
+
+    Some association tests
+
+commit d82fa27dc472caa1523fd449758260a55994df8b
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 19 16:15:10 2021 +0100
+
+    Friday morning backup
+
+commit 6a1a1b2676c6287928db18aa5bee93055a7f5c85
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 19 10:47:40 2021 +0100
+
+    Reload the main
+
+commit 64455b4739a1abd3e73e13c64d3bc8b770842671
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Fri Feb 19 10:36:05 2021 +0100
+
+    Updated main ntb desscription
+
+commit bfdd79bf780b823ab90efc7739d9ee6e628a8396
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Fri Feb 19 10:33:51 2021 +0100
+
+    Updated main ntb desscription
+
+commit e7054d2079ebae4e72e92e5ab62382f791683a81
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 18:34:45 2021 +0100
+
+    Fixed bug in freqBar function
+
+commit 19f3ace9303012c67e0b4d16b026f211086fc235
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 18:32:59 2021 +0100
+
+    Cleared ouput in main ntb...
+
+commit 4f4743fbaf60e656f84fe6630770bb0be43e93be
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 18:31:40 2021 +0100
+
+    Modified frew plot function which can now lookup values in excel sheet and set them to be xtick labels
+
+commit 530bc077c487d8a188cf732de81d67f43af200bf
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 18:19:20 2021 +0100
+
+    ..
+
+commit 70d85f9e6bab87f828142772eea2b315be0b81eb
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 16:35:12 2021 +0100
+
+    ...
+
+commit 0b0640cffed7200e04aa4d1b1b5a7c0b9cebee0d
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 16:33:39 2021 +0100
+
+    ..
+
+commit 8ecddde9d4e4bb5f26e87703e71551b16e846bdb
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 16 13:56:03 2021 +0100
+
+    Modified the Task 1 code
+
+commit 447a6f41c606f27298f0fe4b9c1bc4ff3a399a70
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Mon Feb 15 10:43:28 2021 +0100
+
+    modified readme
+
+commit 45b2dfda670c40f8860180ed15f89cea434d9997
+Author: Markus <mksi@itu.dk>
+Date:   Sun Feb 14 19:19:51 2021 +0100
+
+    Made graphs for age and time/day/year
+
+commit 4d865141bdf74ddd8fbdfa37bb4f3fb5e30acd22
+Author: luci <luci@itu.dk>
+Date:   Sun Feb 14 17:20:07 2021 +0100
+
+    getting rid of missing bvalues
+
+commit 45c1956d2b3c85736d62b22063a489fb9fa2fdbf
+Author: luci <luci@itu.dk>
+Date:   Sun Feb 14 15:17:49 2021 +0100
+
+    Finished TASK 0 and started task 1
+
+commit aaaa29f6fab658921d59462f60cb9a5db28e5b02
+Author: luci <luci@itu.dk>
+Date:   Sun Feb 14 13:28:19 2021 +0100
+
+    Figure out how to filter pu recordas revelevant to Manchester
+
+commit b468ddef1fca21fda06a1a2804565561ffbf5272
+Merge: bac2be0 b626c56
+Author: luci <luci@itu.dk>
+Date:   Sat Feb 13 20:02:44 2021 +0100
+
+    ...
+
+commit bac2be01148610f0cffd195e77ebf8cad0b97943
+Author: luci <luci@itu.dk>
+Date:   Sat Feb 13 19:55:40 2021 +0100
+
+    ...
+
+commit b626c56915fd40b160c579d46d0c8f30339e696d
+Author: luci <luci@itu.dk>
+Date:   Sat Feb 13 15:29:20 2021 +0100
+
+    Finishd exploratory data analysis - edited all the funtions, merged everything into one file
+
+commit 521874f37f29263e88a6113dd26704e08f990131
+Author: luci <luci@itu.dk>
+Date:   Sat Feb 13 10:55:08 2021 +0100
+
+    Move cleaned data to processed folder
+
+commit dbfb59468a97e8b27cd1095fcfd47f2c4aecd783
+Author: luci <luci@itu.dk>
+Date:   Sat Feb 13 10:52:05 2021 +0100
+
+    Renamed raw datasets to the original state
+
+commit d8717d7b9b316d856f0d7ab6b010a26d9e748054
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 12 21:11:56 2021 +0100
+
+    Exploring data
+    
+    Following the lecture
+
+commit 52fb68e702a972ed5a66a440e2009769f1a2f0fd
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 12 19:56:42 2021 +0100
+
+    Update maria.ipynb
+
+commit 23a74eaa67a1cf48eb89e430fc6734c048caef46
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 12 19:50:52 2021 +0100
+
+    Update .gitignore
+
+commit d90ef6b5fed70ef0f674180009d629fee64d0e5e
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 12 19:50:11 2021 +0100
+
+    Create maria.ipynb
+
+commit b542a7e5bb6e1e2a84fea30bf07a2ee8bb7e507d
+Author: Maria Sousa <mdom@itu.dk>
+Date:   Fri Feb 12 19:50:02 2021 +0100
+
+    Create maria.ipynb
+
+commit 2363fb7207fab44a15fa0496f5089daeb5b5e170
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 15:38:16 2021 +0100
+
+    Updated
+
+commit 3742c2993a7cbb91b142044f5af9568f691b2df2
+Author: Markus <mksi@itu.dk>
+Date:   Fri Feb 12 15:21:28 2021 +0100
+
+    fixed it (maybe
+
+commit 923ef9200e47c42731273908c35ca316f7be5c6c
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 14:42:35 2021 +0100
+
+    Updated
+
+commit 81e0d04f7b96dadc0bf33afe804ebbbd2a9f6e43
+Author: Markus <mksi@itu.dk>
+Date:   Fri Feb 12 13:32:03 2021 +0100
+
+    Added boxplot to main notebook
+
+commit 93fdbba9cd157a20c871aabe1135095423c804e0
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 13:20:07 2021 +0100
+
+    Merged couple tasks
+
+commit b3485e80d010f8a4791f6c59f19cd140fdaee87c
+Merge: 693ff65 fe3c434
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 11:18:57 2021 +0100
+
+    solved merge confliuct
+
+commit 693ff65b5f2ffd21809600c530755ad884188cac
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 11:14:42 2021 +0100
+
+    EDA - ludeks part
+
+commit fe3c43477344cd5f9b3c78123b59b5af39a4de52
+Merge: 5487a21 7e9cd54
+Author: jses <jses@itu.dk>
+Date:   Fri Feb 12 11:12:08 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/luci/fyp2021p01g13
+
+commit 7e9cd54507cdfa5670781cf65ce93bf52df5bc9d
+Author: Markus <mksi@itu.dk>
+Date:   Fri Feb 12 11:11:11 2021 +0100
+
+    Created a function to show boxplots
+
+commit 5487a21349d813145448614b435af769d57ae752
+Author: jses <jses@itu.dk>
+Date:   Fri Feb 12 11:11:01 2021 +0100
+
+    Created and updated personal notebook for Jonathan
+
+commit 0417b0e1245fb1f410e56b0644aeeeb98012eb72
+Author: luci <luci@itu.dk>
+Date:   Fri Feb 12 09:10:06 2021 +0100
+
+    Added Exploratory data analysis ntb
+
+commit a172fa66b510fa52467df62b8df08f0eeb7e6006
+Author: luci <luci@itu.dk>
+Date:   Tue Feb 9 19:38:18 2021 +0100
+
+    Updated readme
+
+commit 84a72c3539a50f54af06bf122355208fc99d31ae
+Author: luci <luci@itu.dk>
+Date:   Tue Feb 9 18:42:19 2021 +0100
+
+    I just deleted the useless file and hoping my creds are corect
+
+commit ae445d9ed0276cccee0be255603354aa00326237
+Author: luci <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Feb 9 18:40:08 2021 +0100
+
+    Testing whether my login works correctly
+
+commit 79c6eb3980262ca38fde22688892ebf4253c31dd
+Author: LudekCizinsky <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Feb 9 17:57:18 2021 +0100
+
+    Added reports, scripts folders
+
+commit e542b1b536291c64d64c4e1331d5a861f8bb4ce2
+Author: LudekCizinsky <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Feb 9 17:53:36 2021 +0100
+
+    New subfodlers in data
+
+commit 307742ed678265abcd2a84a5b01b9715d32ad0c3
+Author: LudekCizinsky <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Feb 9 17:48:08 2021 +0100
+
+    Additional files
+
+commit 6604c9d0b3a2c16aa134650cf303d94e9dc6aa71
+Author: LudekCizinsky <47057878+LudekCizinsky@users.noreply.github.com>
+Date:   Tue Feb 9 17:40:44 2021 +0100
+
+    Test commit
+
+commit 1a1e532e7ae0c755d28d5b88231e3f1f5ede0848
+Author: Markus <mksi@itu.dk>
+Date:   Tue Feb 9 17:27:19 2021 +0100
+
+    commit test
+
+commit 8cec77340810368ec7c97971b75bb0e3564ed26f
+Author: Ludek Cizinský <luci@itu.dk>
+Date:   Tue Feb 9 17:05:17 2021 +0100
+
+    Initial commit

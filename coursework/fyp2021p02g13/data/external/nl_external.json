@@ -1,0 +1,49 @@
+{
+	"sources": {
+		"province_gdp": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84432NED/table?ts=1584714842775",
+		"province_rural_pct": "https://www.citypopulation.de/en/netherlands/admin/",
+		"province_very_urban_pct": "https://www.citypopulation.de/en/netherlands/admin/"
+	},
+	"province_gdp": {
+		"Drenthe": 31853,	
+		"Flevoland": 35151,
+		"Friesland": 31947,
+		"Gelderland": 39326,
+		"Groningen": 42174,
+		"Limburg": 41058,
+		"North Brabant": 47328,
+		"North Holland": 62005,
+		"Overijssel": 39258,
+		"South Holland": 45815,
+		"Utrecht": 57431,
+		"Zeeland": 37549
+	},
+	"province_rural_pct": {
+		"Drenthe": 45.3,
+		"Flevoland": 12.5,
+		"Friesland": 44.8,
+		"Gelderland": 22.8,
+		"Groningen": 33.6,
+		"Limburg": 24.7,
+		"North Brabant": 17.6,
+		"North Holland": 7.8,
+		"Overijssel": 22.4,
+		"South Holland": 5.9,
+		"Utrecht": 9.4,
+		"Zeeland": 38.4
+	},
+	"province_very_urban_pct": {
+		"Drenthe": 2,
+		"Flevoland": 2.3,
+		"Friesland": 7.9,
+		"Gelderland": 8.4,
+		"Groningen": 22.4,
+		"Limburg": 8.9,
+		"North Brabant": 15.1,
+		"North Holland": 42.7,
+		"Overijssel": 11.9,
+		"South Holland": 42.7,
+		"Utrecht": 24.7,
+		"Zeeland": 5.6
+	}
+}
